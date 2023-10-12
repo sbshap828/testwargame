@@ -1,0 +1,1 @@
+constole.log(document.getElementById('text').value);
